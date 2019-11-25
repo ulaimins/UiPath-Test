@@ -1,0 +1,7 @@
+<p>Dear [EMPLOYEE NAME],</p>
+<p>Your <strong>[TYPE LABEL]</strong><em>&nbsp;</em>is due to expire on <strong>[VISA EXPIRY DATE]</strong>. &nbsp;</p>
+<p>Please can you provide a copy of your new visa to <strong>Joanna Murphy, Immigration Specialist</strong> <a href="mailto:joanna.murphy@edfenergy.com">joanna.murphy@edfenergy.com</a>.</p>
+<p>Please make sure the copies are of both sides, verified and dated by your Line Manager or HR Business Partner.</p>
+<p>If you have not yet received your new visa, can you provide an update on the status of you visa application.</p>
+<p>Kind Regards,</p>
+<p>Employee Services</p>

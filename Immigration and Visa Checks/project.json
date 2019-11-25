@@ -1,0 +1,30 @@
+{
+  "name": "Immigration and Visa Checks",
+  "description": "A process to carry our validation checks on the FR16 report.",
+  "main": "Main.xaml",
+  "dependencies": {
+    "Reusable_Components": "[1.0.7220.24644]",
+    "UiPath.Excel.Activities": "[2.6.1]",
+    "UiPath.Mail.Activities": "[1.5.1]",
+    "UiPath.System.Activities": "[19.5.0]",
+    "UiPath.UIAutomation.Activities": "[19.7.0]",
+    "UiPath.Vision": "1.6.0"
+  },
+  "schemaVersion": "3.2",
+  "studioVersion": "18.3.2.0",
+  "projectVersion": "1.0.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ]
+  },
+  "projectType": "Workflow",
+  "libraryOptions": {
+    "includeOriginalXaml": false,
+    "privateWorkflows": []
+  },
+  "webServices": []
+}

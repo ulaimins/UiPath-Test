@@ -1,0 +1,7 @@
+<p>Dear [LINE MANAGER NAME],</p>
+<p>As part of EDF Energy Tier 2 sponsor licence obligations, we are required to monitor any changes to the sponsored employee's role and report such changes to the UKVI within a specified number of days of the change taking effect.</p>
+<p>As the sponsored employee's line manager you are receiving this email as myHR indicates there has been a change to [EMPLOYEE NAME], [EMPLOYEE NUMBER] for the following fields:[CHANGE FIELDS]&nbsp;</p>
+<p>To verify that the change will not impact the terms of the sponsored employee's Tier 2 visa and that the change has been notified to the UKVI, please contact <strong>Joanna Murphy, Immigration Specialist</strong> <a href="mailto:joanna.murphy@edfenergy.com">joanna.murphy@edfenergy.com</a> within the next 2 days to discuss the change and any further actions required.</p>
+<p>Failure to notify the UKVI within the required timescales could risk our sponsor licence and therefore our ability to recruit and employ non EEA nationals.</p>
+<p>Kind Regards,</p>
+<p>Employee Services</p>

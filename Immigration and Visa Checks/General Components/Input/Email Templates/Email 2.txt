@@ -1,0 +1,20 @@
+<p>Dear [EMPLOYEE NAME],</p>
+<p>Your visa is due to expire on the [VISA EXPIRY DATE], in order to apply for a Tier 2 (General) visa extension you will require a Certificate of Sponsorship (CoS).</p>
+<p>Before I can progress and assign a CoS to you&nbsp;I require specific documents and details from you and your Line Manager, who I have cc'd on this email:</p>
+<p><strong>From &nbsp;Employee </strong></p>
+<ul>
+<li>confirm how long you have been in the UK and provide copies of the photo page on your passport including the front and back cover with all previous UK visas, all verified (print name, sign and date) by your manager</li>
+<li>provide copies of the photo page of passport including the front and back cover with all previous UK visas for any dependants</li>
+<li>provide a copy of your most recent payslip and confirm your home address</li>
+<li>confirm any International travel booked</li>
+<li>application route, (1) Postal (2) Priority postal or (3) in person, the processing times vary depending on which application option is selected</li>
+</ul>
+<p><strong>From Line Manager </strong></p>
+<ul>
+<li>&nbsp;provide current job description</li>
+<li>&nbsp;confirm there will be no change to role after the visa has been extended</li>
+</ul>
+<p>Please send the required documents to <strong>Joanna Murphy, Immigration Specialist</strong> <a href="mailto:joanna.murphy@edfenergy.com">joanna.murphy@edfenergy.com</a>. Once the documents and information have been recieved, we will be able to progress your COS application.</p>
+<p>Kind regards,</p>
+<p>Employee Services</p>
+<p>&nbsp;</p>
